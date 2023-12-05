@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently studying towards a **Computer Science degree**
 
-- 👨‍💻 All of my projects are available at [rodrigodelascio.co.uk](rodrigodelascio.co.uk)
+- 👨‍💻 All of my projects are available at [rodrigodelascio.co.uk](https://rodrigodelascio.co.uk/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
