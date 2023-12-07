@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, my name is Rodrigo de Lascio</h1>
+<h1 align="center">Hi 👋, my name is Rodrigo De Lascio</h1>
 <h3 align="center">A passionate web developer based in Walton-on-Thames, UK</h3>
 
 - 🔭 I’m currently working on **personal projects**
