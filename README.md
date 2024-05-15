@@ -7,7 +7,7 @@
 
 ## 🌐 Connect:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigodelascio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rodrigo-de-lascio)
 <br><br>
 
 # 💻 Tech Stack:
