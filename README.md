@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <br>- ⚡ I'm studying towards **a BSc in Computing @ Arden University**
-<br>- 🌱 I’m currently learning **Java and Advanced Database Modelling**
+<br>- 🌱 I’m currently learning **Java and Object Oriented Programming**
 <br>- 👨‍💻 All of my projects are available at [rodrigodelascio.co.uk](https://rodrigodelascio.co.uk)
 <br><br>
 
